@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="CalculadoraWeb" options="-endorseddirs C:\VolumenDocker\Tomcat\CalculadoraWeb\target/endorsed" />
+      <module name="CalculadoraWeb" options="-endorseddirs C:\VolumenDocker\Tomcat\proyectoJeankins2\target/endorsed" />
     </option>
   </component>
 </project>
