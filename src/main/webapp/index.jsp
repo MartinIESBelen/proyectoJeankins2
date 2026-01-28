@@ -14,7 +14,7 @@
     <input type="text" name="b" />
 
     <br/><br/>
-
+    <h2>Esto es una prueba</h2>
     <button type="submit">Sumar</button>
 </form>
 
